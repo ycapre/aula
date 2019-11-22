@@ -1,0 +1,2 @@
+aqui neste arquivo escreverei algumas coisas para alterá-lo e salvar o arquivo para poder realizar um commit
+assim sendo chegarei mais próximo da minha meta final 
